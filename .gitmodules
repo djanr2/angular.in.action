@@ -1,0 +1,3 @@
+[submodule "02.stock.yahoo"]
+	path = 02.stock.yahoo
+	url = https://github.com/djanr2/02.stock.yahoo.git
